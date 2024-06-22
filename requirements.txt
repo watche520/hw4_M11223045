@@ -1,0 +1,18 @@
+# Web UI
+dash
+
+# NLP
+gensim
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Data Manipulation
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+scipy==1.9.0
